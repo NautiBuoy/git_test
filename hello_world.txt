@@ -1,0 +1,2 @@
+This is a test using commondad: % nano hello_world.txt
+
